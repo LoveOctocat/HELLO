@@ -1,3 +1,1 @@
-# HELLO GitHub
-
-FIRST
+# Hello GitHub!
